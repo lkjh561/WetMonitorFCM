@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15793904045",
+    "firebase_url": "https://wetmonitor-91dec.firebaseio.com",
+    "project_id": "wetmonitor-91dec",
+    "storage_bucket": "wetmonitor-91dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15793904045:android:c1671ecf273226b8",
+        "android_client_info": {
+          "package_name": "com.example.user.wetmonitorfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15793904045-n86u5gj73oo7gvbp5dg6p7tp8p2oeep6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.wetmonitorfcm",
+            "certificate_hash": "7bba58e306ebe27a52e15af6eb903e3cc0358a1e"
+          }
+        },
+        {
+          "client_id": "15793904045-jenkrd7flk5fq84tc264235ma660v9kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Q2ksS1ovm3KuYzZQlJcQZZZhQQV3-80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15793904045-jenkrd7flk5fq84tc264235ma660v9kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
